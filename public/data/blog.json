@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "date": "12 July, 2018",
+    "title": "Lorem Ipsum Dolor Sit Amet Consectetur",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Etiam at ipsum at ligula vestibulum sodales. Sed luctus.",
+    "image": "/images/bg_1.jpg",
+    "likes": 43,
+    "comments": 3,
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "date": "5 May, 2021",
+    "title": "Exploring the Beauty of Nature",
+    "description": "Discover the wonders of nature and enjoy breathtaking landscapes. A guide to outdoor adventures.",
+    "image": "/images/bg_1.jpg",
+    "likes": 75,
+    "comments": 12,
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "date": "15 August, 2022",
+    "title": "The Future of Technology",
+    "description": "An insight into the latest advancements in technology and how they are shaping the future.",
+    "image": "/images/bg_1.jpg",
+    "likes": 89,
+    "comments": 20,
+    "link": "#"
+  }
+]

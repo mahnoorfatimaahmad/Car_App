@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.custom-text-white {
+  color: white !important;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Animated Border */
+.animated-border {
+  position: relative;
+  display: inline-block;
+  padding: 5px; /* Border thickness */
+  background: linear-gradient(
+    90deg,
+    #ff0000,
+    #ff7300,
+    #ff0000
+  ); /* Red gradient */
+  background-size: 200% 200%; /* Expand background for animation */
+  animation: border-move 4s linear infinite; /* Animate the gradient */
+  border-radius: 12px; /* Adjust as needed */
+}
+
+.animated-border-inner {
+  display: inline-block;
+  padding: 12px 24px; /* Inner button padding */
+  background-color: #1a202c; /* Inner background color (gray-900) */
+  color: white;
+  border-radius: 8px; /* Match border radius */
+  z-index: 1;
+  position: relative;
+}
+
+/* Container for icons */
+.icon-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid red;
+  border-radius: 5px;
+  background-color: white;
+  padding: 5px;
+}
+
+/* White icons */
+.icon-white {
+  color: white !important;
+  background-color: red; /* Optional for contrast */
+  border-radius: 50%;
+  padding: 5px;
+}
+
+/* Dropdown arrow customization */
+.red-date-picker-icon input::-webkit-calendar-picker-indicator,
+.icon-container .MuiSelect-icon {
+  background-color: red;
+  border-radius: 50%;
+  /* padding: 5px; */
+  color: white !important;
+}
+/* globals.css */
+.scrollbar-hide {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, and Opera */
+}

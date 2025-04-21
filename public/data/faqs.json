@@ -1,0 +1,32 @@
+{
+  "faqs": [
+    {
+      "question": "How do I book a rental car?",
+      "answer": "Visit our website, choose a car, select pickup/drop-off details, and complete the booking process."
+    },
+    {
+      "question": "What documents do I need to rent a car?",
+      "answer": "You need a valid driver's license, a government-issued ID, and a credit or debit card."
+    },
+    {
+      "question": "Is there an age requirement to rent a car?",
+      "answer": "Yes, the minimum age is 21, and drivers under 25 may have to pay a young driver surcharge."
+    },
+    {
+      "question": "Can I modify or cancel my booking?",
+      "answer": "Yes, you can modify or cancel your booking online or by contacting customer support."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept credit/debit cards and digital payments; cash payments may not be available."
+    },
+    {
+      "question": "Do rental cars come with insurance?",
+      "answer": "Yes, basic insurance is included, and additional coverage options are available."
+    },
+    {
+      "question": "Can I return the car to a different location?",
+      "answer": "Yes, but a one-way rental fee may apply based on the drop-off location."
+    }
+  ]
+}

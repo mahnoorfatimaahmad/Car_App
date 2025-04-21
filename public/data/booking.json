@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "userName": "John Doe",
+    "carId": 3,
+    "carName": "Ford Explorer",
+    "rentalDate": "2024-12-20",
+    "returnDate": "2024-12-23",
+    "totalPrice": 210,
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "userName": "Jane Smith",
+    "carId": 1,
+    "carName": "Toyota Camry",
+    "rentalDate": "2024-12-21",
+    "returnDate": "2024-12-25",
+    "totalPrice": 200,
+    "status": "Completed"
+  },
+  {
+    "id": 3,
+    "userId": 3,
+    "userName": "Alice Johnson",
+    "carId": 2,
+    "carName": "Honda Civic",
+    "rentalDate": "2024-12-22",
+    "returnDate": "2024-12-24",
+    "totalPrice": 80,
+    "status": "Cancelled"
+  },
+  {
+    "id": 4,
+    "userId": 4,
+    "userName": "Michael Brown",
+    "carId": 5,
+    "carName": "Nissan Altima",
+    "rentalDate": "2024-12-18",
+    "returnDate": "2024-12-20",
+    "totalPrice": 110,
+    "status": "Completed"
+  },
+  {
+    "id": 5,
+    "userId": 5,
+    "userName": "Emily Davis",
+    "carId": 7,
+    "carName": "Tesla Model 3",
+    "rentalDate": "2024-12-15",
+    "returnDate": "2024-12-18",
+    "totalPrice": 270,
+    "status": "Completed"
+  },
+  {
+    "id": 6,
+    "userId": 1,
+    "userName": "John Doe",
+    "carId": 8,
+    "carName": "Hyundai Elantra",
+    "rentalDate": "2024-12-12",
+    "returnDate": "2024-12-15",
+    "totalPrice": 114,
+    "status": "Completed"
+  },
+  {
+    "id": 7,
+    "userId": 6,
+    "userName": "Sophia Wilson",
+    "carId": 10,
+    "carName": "Mercedes-Benz E-Class",
+    "rentalDate": "2024-12-10",
+    "returnDate": "2024-12-13",
+    "totalPrice": 450,
+    "status": "Completed"
+  },
+  {
+    "id": 8,
+    "userId": 7,
+    "userName": "James Lee",
+    "carId": 9,
+    "carName": "Kia Sportage",
+    "rentalDate": "2024-12-05",
+    "returnDate": "2024-12-08",
+    "totalPrice": 180,
+    "status": "Cancelled"
+  },
+  {
+    "id": 9,
+    "userId": 8,
+    "userName": "Olivia Martinez",
+    "carId": 13,
+    "carName": "Jeep Wrangler",
+    "rentalDate": "2024-12-01",
+    "returnDate": "2024-12-04",
+    "totalPrice": 255,
+    "status": "Completed"
+  },
+  {
+    "id": 10,
+    "userId": 9,
+    "userName": "Liam Garcia",
+    "carId": 4,
+    "carName": "Chevrolet Malibu",
+    "rentalDate": "2024-11-28",
+    "returnDate": "2024-12-01",
+    "totalPrice": 135,
+    "status": "Completed"
+  },
+  {
+    "id": 11,
+    "userId": 10,
+    "userName": "Charlotte Moore",
+    "carId": 12,
+    "carName": "Volkswagen Passat",
+    "rentalDate": "2024-11-25",
+    "returnDate": "2024-11-28",
+    "totalPrice": 144,
+    "status": "Completed"
+  },
+  {
+    "id": 12,
+    "userId": 11,
+    "userName": "Ethan Taylor",
+    "carId": 14,
+    "carName": "Subaru Forester",
+    "rentalDate": "2024-11-20",
+    "returnDate": "2024-11-23",
+    "totalPrice": 195,
+    "status": "Cancelled"
+  },
+  {
+    "id": 13,
+    "userId": 12,
+    "userName": "Amelia Thomas",
+    "carId": 15,
+    "carName": "Mazda CX-5",
+    "rentalDate": "2024-11-15",
+    "returnDate": "2024-11-18",
+    "totalPrice": 174,
+    "status": "Completed"
+  },
+  {
+    "id": 14,
+    "userId": 13,
+    "userName": "Isabella Jackson",
+    "carId": 6,
+    "carName": "BMW X5",
+    "rentalDate": "2024-11-10",
+    "returnDate": "2024-11-13",
+    "totalPrice": 360,
+    "status": "Completed"
+  },
+  {
+    "id": 15,
+    "userId": 14,
+    "userName": "Mason White",
+    "carId": 11,
+    "carName": "Audi A4",
+    "rentalDate": "2024-11-05",
+    "returnDate": "2024-11-08",
+    "totalPrice": 390,
+    "status": "Completed"
+  }
+]

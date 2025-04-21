@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "heading": "Engine Repair",
+    "image": "/images/services/service_01.jpg"
+  },
+  {
+    "id": 2,
+    "heading": "Oil Change",
+    "image": "/images/services/service_02.avif"
+  },
+  {
+    "id": 3,
+    "heading": "Tire Replacement",
+    "image": "/images/services/services_03.avif"
+  },
+  {
+    "id": 4,
+    "heading": "Battery Replacement",
+    "image": "/images/services/services_04.avif"
+  },
+  {
+    "id": 5,
+    "heading": "Brake Service",
+    "image": "/images/services/service_05.avif"
+  },
+  {
+    "id": 6,
+    "heading": "Car Wash",
+    "image": "/images/services/service_01.jpg"
+  },
+  {
+    "id": 7,
+    "heading": "AC Service",
+    "image": "/images/services/auto-car-repair-service-center-mechanic-examining-car-suspension_136930-6.avif"
+  },
+  {
+    "id": 8,
+    "heading": "Transmission Repair",
+    "image": "/images/services/auto-car-repair-service-center-mechanic-examining-car-suspension_136930-6.avif"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "categoryName": "Sedans",
+    "image": "/images/inventory/car_01.png",
+    "description": "Comfortable and fuel-efficient cars, ideal for city driving and long journeys.",
+    "year": 2020,
+    "fuelType": "petrol",
+    "pricePerDay": 20,
+    "capacity": 5,
+    "brand": "sedans"
+  },
+  {
+    "id": 2,
+    "categoryName": "SUVs",
+    "image": "/images/inventory/car_02.png",
+    "description": "Spacious and powerful cars, perfect for family trips and off-road adventures.",
+    "year": 2020,
+    "fuelType": "petrol",
+    "pricePerDay": 20,
+    "capacity": 5,
+    "brand": "suvs"
+  },
+  {
+    "id": 3,
+    "categoryName": "Luxury Cars",
+    "image": "/images/inventory/car_03.png",
+    "description": "High-end vehicles offering premium features, designed for comfort and style.",
+    "year": 2020,
+    "fuelType": "petrol",
+    "pricePerDay": 20,
+    "capacity": 5,
+    "brand": "luxury-cars"
+  },
+  {
+    "id": 4,
+    "categoryName": "Convertibles",
+    "image": "/images/inventory/car_04.png",
+    "description": "Stylish and fun cars, perfect for those who love to drive with the top down.",
+    "year": 2020,
+    "fuelType": "petrol",
+    "pricePerDay": 20,
+    "capacity": 5,
+    "brand": "convertibles"
+  },
+  {
+    "id": 5,
+    "categoryName": "Electric Cars",
+    "image": "/images/inventory/car_05.png",
+    "description": "Eco-friendly and energy-efficient cars, a great choice for the environmentally conscious.",
+    "year": 2020,
+    "fuelType": "petrol",
+    "pricePerDay": 20,
+    "capacity": 5,
+    "brand": "electric-cars"
+  },
+  {
+    "id": 6,
+    "categoryName": "Vans",
+    "image": "/images/inventory/car_06.png",
+    "description": "Ideal for large groups or families, offering ample seating and storage space.",
+    "year": 2020,
+    "fuelType": "petrol",
+    "pricePerDay": 20,
+    "capacity": 5,
+    "brand": "vans"
+  },
+  {
+    "id": 7,
+    "categoryName": "Coupes",
+    "image": "/images/inventory/car_07.png",
+    "description": "Sporty two-door cars offering excellent performance and a sleek design.",
+    "year": 2020,
+    "fuelType": "petrol",
+    "pricePerDay": 20,
+    "capacity": 5,
+    "brand": "coupe"
+  },
+  {
+    "id": 8,
+    "categoryName": "Hatchbacks",
+    "image": "/images/inventory/car_08.png",
+    "description": "Compact and versatile cars, offering both city-friendly size and practical rear space.",
+    "year": 2020,
+    "fuelType": "petrol",
+    "pricePerDay": 20,
+    "capacity": 5,
+    "brand": "hatchbacks"
+  }
+]
