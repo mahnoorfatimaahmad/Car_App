@@ -69,7 +69,7 @@ const Footer = () => {
       {/* Footer Bottom */}
       <div className="mt-8 text-center border-t border-gray-700 pt-4">
         <p className="text-sm">
-          &copy; Example 2025. All Rights Reserved. Designed by Ammara Ilyas.
+          &copy; Example 2025. All Rights Reserved. Designed by MAHNOOR .
         </p>
       </div>
     </footer>
