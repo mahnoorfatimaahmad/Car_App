@@ -8,7 +8,7 @@ export default function FAQAccordion() {
   const [openIndexes, setOpenIndexes] = useState([]);
   const [faqs, setFaqs] = useState([]);
   const [loading, setLoading] = useState(true);
-  // const NEXT_PUBLIC_API_URL = "https://car-rent-appl.netlify.app/";
+  // const NEXT_PUBLIC_API_URL = "https://rent-car-ap.netlify.app/";
 
   useEffect(() => {
     const fetchData = async () => {
